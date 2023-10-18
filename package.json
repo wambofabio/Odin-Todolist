@@ -1,0 +1,26 @@
+{
+  "name": "odin-todolist",
+  "version": "1.0.0",
+  "description": "A Todo List App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wambofabio/Odin-Todolist.git"
+  },
+  "author": "Fabian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wambofabio/Odin-Todolist/issues"
+  },
+  "homepage": "https://github.com/wambofabio/Odin-Todolist#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  }
+}
